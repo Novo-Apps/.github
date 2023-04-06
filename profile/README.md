@@ -1,4 +1,6 @@
 ## Hi there 👋
+### Welcome to the Novo-Apps Github.
+What you'll find here will be all the things developed by the Novo's team.
 
 <!--
 
